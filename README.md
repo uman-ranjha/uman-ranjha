@@ -4,7 +4,7 @@ I'm a student at John Jay College of Criminal Justice in the accelerated dual-de
 
 BS in Computer Science and Information Security, 2027. MS in Digital Forensics and Cybersecurity, 2028. GPA 3.5.
 
-I am focused on SOC work, GRC, and digital forensics. Forensics is a learning focus for me right now, not a completed project yet.
+I am focused on SOC work, GRC, and digital forensics. 
 
 CompTIA Security+ (Pending). Exam target: December 11, 2026.
 
