@@ -31,5 +31,4 @@ CompTIA Security+ (Pending). Exam target: December 11, 2026.
 
 ## Contact
 
-- GitHub: [uman-ranjha](https://github.com/uman-ranjha)
 - LinkedIn: [uman-ranjha-967116296](https://www.linkedin.com/in/uman-ranjha-967116296/)
